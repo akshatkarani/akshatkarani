@@ -42,8 +42,6 @@ Most of this lives in Needl's private org, on my work account [aks-71](https://g
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
-## Open source and projects
+## Open source
 
 - **Google Summer of Code 2019, [coala](https://github.com/coala/coala)** &mdash; reworked the action system so analysis plugins can define their own fixes and offer alternative patches. [Final report](https://github.com/coala/projects/blob/master/_reports/akshatkarani.md) and an [eight-part log](https://akshatkarani.github.io/#writing).
-- [randomized_tsp](https://github.com/akshatkarani/randomized_tsp) &mdash; genetic, simulated-annealing and ant-colony algorithms for the Travelling Salesman Problem, on [PyPI](https://pypi.org/project/randomized-tsp).
-- [micro_compiler](https://github.com/akshatkarani/micro_compiler) &mdash; a compiler for the MICRO language in C++ with Flex and Bison.
