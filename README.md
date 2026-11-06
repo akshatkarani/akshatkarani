@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Akshat
 
-<!--
-**akshatkarani/akshatkarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ML Engineer at [Needl.ai](https://needl.ai), based in Mumbai. I studied Computer Science and Engineering at IIT Dharwad.
 
-Here are some ideas to get you started:
+I got into open source through [coala](https://github.com/coala/coala), a static-analysis framework, and was a
+Google Summer of Code 2019 student there, reworking its action system so analysis plugins can define their own fixes
+and suggest multiple patches ([report](https://akshatkarani.github.io/GSoC/), [blog posts](https://akshatkarani.github.io/#writing)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+
+- [randomized_tsp](https://github.com/akshatkarani/randomized_tsp): genetic, simulated-annealing and ant-colony
+  algorithms for the Travelling Salesman Problem, published on [PyPI](https://pypi.org/project/randomized-tsp)
+- [micro_compiler](https://github.com/akshatkarani/micro_compiler): a compiler for the MICRO language in C++ with Flex and Bison
+
+Most of my day-to-day work happens on my work account, [aks-71](https://github.com/aks-71).
+
+[Website](https://akshatkarani.github.io) · [LinkedIn](https://www.linkedin.com/in/akshat-karani) · [X](https://x.com/akshatkarani) · [Email](mailto:akshatkarani@gmail.com)
